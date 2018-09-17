@@ -35,7 +35,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 >
 >项目日志
 >>[V1.0](https://github.com/bigbigDreamer/MobileApp/blob/master/project%20log/V1.0.md)<br>
->>[V2.0](https://github.com/bigbigDreamer/MobileApp/blob/master/project%20log/V2.0.md)
+>>[V1.1](https://github.com/bigbigDreamer/MobileApp/blob/master/project%20log/V2.0.md)
 >
 >重要信息
 >>此仓库仅仅为个人知识总结提炼与分享经验所创，会不定期更新，旨在结识同道中人一起切磋。
